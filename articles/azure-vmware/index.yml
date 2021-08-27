@@ -182,6 +182,8 @@ landingContent:
             url: azure-vmware-solution-horizon.md
           - text: Deploy VMs from the content library
             url: deploy-vm-content-library.md   
+          - text: Create Placement Policies for VMs
+            url: create-placement-policy.md
           - text: Deploy disaster recovery using VMware SRM 
             url: disaster-recovery-using-vmware-site-recovery-manager.md
           - text: Deploy disaster recovery using VMware HCX
